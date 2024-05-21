@@ -1,0 +1,42 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "MISC",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "decaying_winter",
+    "modName": "Decaying Winter",
+    "version": "1.0.0",
+    "description": "Survival and wave based shooter with a heavy emphasis on individual as well as team performance and not failing. You will fail, and are not expected to win or even perform well every run. ",
+    "author": "Kien Core Dev",
+    "websiteURL": "https://mcreator.net",
+    "license": "GNU General Public License version 2 (GPLv2)",
+    "serverSideOnly": false,
+    "modPicture": "webp",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "bettercombat",
+      "geckolib",
+      "playeranimator",
+      "cloth-config"
+    ],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "KCD",
+    "modElementsPackage": "net.kiencore.decayingwinter"
+  },
+  "mcreatorVersion": 202400118518
+}

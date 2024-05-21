@@ -1,0 +1,50 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU General Public License version 2 (GPLv2)"
+
+[[mods]]
+modId="decaying_winter"
+version="1.0.0"
+displayName="Decaying Winter"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="KCD"
+authors="Kien Core Dev"
+description="Survival and wave based shooter with a heavy emphasis on individual as well as team performance and not failing. You will fail, and are not expected to win or even perform well every run. "
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.decaying_winter]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.decaying_winter]]
+    modId="bettercombat"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.decaying_winter]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.decaying_winter]]
+    modId="playeranimator"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.decaying_winter]]
+    modId="cloth-config"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
